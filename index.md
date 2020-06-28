@@ -7,3 +7,4 @@ Iron Man ist ein US-amerikanischer Action- und Science-Fiction-Spielfilm aus dem
 > Iron Man: 'Sie sind ja auch noch ziemlich rüstig für ihr Alter. Wie machen sie das, Pilates?'
 > Captain America: 'Was?'
 > Iron Man: 'Ist so 'ne Art Turnübung. Bisschen was verpasst haben sie schon während ihrer Zeit als Captain Igloo.'
+<img src="http://de.web.img3.acsta.net/r_640_360/newsv7/20/05/29/12/02/5303405.jpg"/>
