@@ -4,3 +4,6 @@ Iron Man ist ein US-amerikanischer Action- und Science-Fiction-Spielfilm aus dem
 * liebt Pepper Potts
 * liebt seinen Anzug
 * braucht elektronisches Herz
+> Iron Man: 'Sie sind ja auch noch ziemlich rüstig für ihr Alter. Wie machen sie das, Pilates?'
+> Captain America: 'Was?'
+> Iron Man: 'Ist so 'ne Art Turnübung. Bisschen was verpasst haben sie schon während ihrer Zeit als Captain Igloo.'
